@@ -55,7 +55,7 @@ export const gridItems = [
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/l.png",
+    img: "/p1.png",
     spareImg: "/grid.svg",
   },
   {
@@ -76,7 +76,7 @@ export const projects = [
     title: "Creative Universe to Explore",
     des: "Discover a galaxy of design, marketing, and visual storytelling services — all crafted to elevate your brand in the digital era",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/gsap.svg", "/three.svg", "/fm.svg"],
     link: "mrcodeahmad.com",
   },
   {
@@ -84,15 +84,15 @@ export const projects = [
     title: "A Full-Spectrum Creative Journey",
     des: "From branding and motion graphics to digital marketing and photography — explore everything your brand needs to shine.",
     img: "/p2.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    iconLists: ["/p1.png", "/gsap.svg", "/p2.jpg", "/1.  jpg", "/2.jpg"],
+    link: "https://github.com/final framehajdin/zoom-clone",
   },
   {
     id: 3,
     title: "Design. Market. Film. Capture",
     des: "Step into a multi-dimensional creative experience where visuals, strategy, and storytelling come together to make your brand unforgettable.",
     img: "/p4.webp",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/p1.png", "/p3.jpg", "/p2.jpg", "/1.jpg", "/2.jpg"],
     link: "",
   },
   {
@@ -100,39 +100,39 @@ export const projects = [
     title: "Brand Consulting",
     des: "Expert insights that turn market confusion into clarity — we craft strategies that help your brand grow smarter and faster.",
     img: "/p4.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    iconLists: ["/p1.png", "/p3.jpg", "/p2.jpg", "/1.jpg", "/2.jpg"],
+    link: "https://github.com/final framehajdin/iphone",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with final frame was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Finalframes enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, final frame is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with final frame was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. final frame enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, final frame is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with final frame was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. final frame enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, final frame is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with final frame was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. final frame enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, final frame is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with final frame was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. final frame enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, final frame is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
